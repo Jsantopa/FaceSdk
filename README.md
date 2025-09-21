@@ -39,7 +39,6 @@ La aplicación sigue principios de **Clean Architecture** y **SOLID**:
 
 ## Posibles Mejoras
 - Agregar pruebas unitarias para UseCase y Repository con mocks del SDK  
-- Integrar un framework de inyección de dependencias como Hilt o Koin  
 - Soporte para comparar múltiples rostros o generar una base de datos de caras  
 - Configuración para guardar o no las fotos en la galería  
 - Mejorar la UI con animaciones, loaders y manejo de errores detallado  
